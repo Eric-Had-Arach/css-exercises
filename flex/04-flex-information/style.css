@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -10,16 +11,6 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-}
-
-
-/* SOLUTION */
-
-body {
-  text-align: center;
-}
-
-.title {
   margin-bottom: 32px;
 }
 
@@ -32,3 +23,6 @@ body {
 .info {
   max-width: 200px;
 }
+
+
+
